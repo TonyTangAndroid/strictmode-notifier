@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
 
   private void fireNetwork() {
     try {
-      URL url = new URL("http://google.com/");
+      URL url = new URL("https://google.com/");
       HttpURLConnection con = (HttpURLConnection) url.openConnection();
       con.setRequestMethod("GET");
       con.connect();

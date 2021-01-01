@@ -32,7 +32,7 @@ ext {
     buildToolsVersion = '28.0.3'
     javaVersion = JavaVersion.VERSION_1_8
     versionCode = 4
-    versionName = "0.9.4"
+    versionName = "0.9.5"
 
     POM_DEVELOPER_ID = "nshmura"
     POM_GROUP = "com.nshmura"
